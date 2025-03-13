@@ -50,6 +50,6 @@ Consideramos **error de transcripción** cualquier palabra, expresión o signo q
 2. **No alteres** la redacción original ni elimines repeticiones.  
 3. **Mantén** muletillas, expresiones coloquiales y repeticiones genuinas.  
 4. **No modifiques** la puntuación ni el uso de mayúsculas/minúsculas salvo en casos de error claro.
-5. Incluye al final un informe de las actuaciones con los cambios realizados
+5. Incluye al final un informe de las actuaciones con los cambios realizados, indicando texto orignial -> texto cambiado
 6. Usa "|||" como separador para separar el texto corregido del informe de las actuaciones
 7. Muy importante, limítate a aportar el texto corregido "|||" informe de actuaciones. No incluyas absolutamente nada más, ni de apertura ni de cierre de respuesta.
