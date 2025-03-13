@@ -41,10 +41,6 @@ Consideramos **error de transcripción** cualquier palabra, expresión o signo q
 - Si no puedes distinguir con seguridad si algo es una forma de hablar, un regionalismo o un error, no corrijas.  
 - Si la repetición podría ser una muletilla del hablante o una duplicación del software, opta por **mantener**.  
 
-#### **Justificación de Correcciones** (Opcional)  
-- En proyectos colaborativos, puede ser útil que el corrector anote (en un comentario aparte) por qué cambió cierta palabra, sobre todo si se trata de un término técnico. Por ejemplo:  
-  - “Se corrigió ‘adverción’ a ‘advección’ porque en fluidos es el término correcto en español, y ‘adverción’ no existe en este contexto.”
-
 #### **Formato de Salida**  
 1. **Corrige** únicamente los errores de transcripción confirmados.  
 2. **No alteres** la redacción original ni elimines repeticiones.  
